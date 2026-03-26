@@ -184,3 +184,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 
 # se_omapi
 TW_INCLUDE_OMAPI := true
+
+BOARD_RECOVERY_IMAGE_PREPARE += \
+cp -f $(DEVICE_PATH)/recovery/root/vendor/bin/keystore2_v36 $(TARGET_RECOVERY_ROOT_OUT)/system/bin/keystore2; \
+cp -f $(DEVICE_PATH)/recovery/root/vendor/lib64/libc++_v36.so $(TARGET_RECOVERY_ROOT_OUT)/system/lib64/libc++_v36.so;
