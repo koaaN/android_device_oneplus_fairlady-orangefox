@@ -2,9 +2,9 @@
 
 ## Working
 
-- [?] Display
-- [?] Touch 
-- [?] Decryption
+- [x] Display
+- [x] Touch 
+- [x] Decryption
 - [?] Flashing
 - [?] Backup & Restore
 - [?] KernelSU, KernelSU Next & SukiSU Ultra Installer
