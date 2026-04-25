@@ -33,7 +33,7 @@ $(call inherit-product, device/oneplus/fairlady/device.mk)
 PRODUCT_DEVICE := fairlady
 PRODUCT_NAME := twrp_fairlady
 PRODUCT_BRAND := oneplus
-PRODUCT_MODEL := OnePlus 15
+PRODUCT_MODEL := OnePlus 15T
 PRODUCT_MANUFACTURER := oneplus
 
 PRODUCT_GMS_CLIENTID_BASE := android-oplus

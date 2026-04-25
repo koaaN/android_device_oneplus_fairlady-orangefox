@@ -5,15 +5,15 @@
 - [x] Display
 - [x] Touch 
 - [x] Decryption
-- [?] Flashing
-- [?] Backup & Restore
-- [?] KernelSU, KernelSU Next & SukiSU Ultra Installer
-- [?] MTP/OTG Storage
-- [?] ADB/FastbootD
-- [?] Factory Reset
-- [?] Vibrator
-- [?] Display & Vibration Settings
-- [?] Flashlight
+- [x] Flashing
+- [x] Backup & Restore
+- [x] KernelSU, KernelSU Next & SukiSU Ultra Installer
+- [x] MTP/OTG Storage
+- [x] ADB/FastbootD
+- [x] Factory Reset
+- [x] Vibrator
+- [x] Display & Vibration Settings
+- [x] Flashlight
 
 ## Not working
 
